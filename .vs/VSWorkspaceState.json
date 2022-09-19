@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.cache",
+    "\\.cache\\replit",
+    "\\.cache\\replit\\nix",
+    "\\.config",
+    "\\.config\\npm",
+    "\\.config\\npm\\node_global",
+    "\\.upm",
+    "\\public",
+    "\\views"
+  ],
+  "SelectedNode": "\\index.js",
+  "PreviewInSolutionExplorer": false
+}
